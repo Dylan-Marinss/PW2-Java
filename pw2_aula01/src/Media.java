@@ -19,8 +19,5 @@ public class Media {
         res = (n1 + n2) / 2;
         System.out.println("O aluno " + nomeAluno +
                 " teve média = " + res );
-
-
-
     }
 }
